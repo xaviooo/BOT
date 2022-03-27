@@ -29,6 +29,12 @@
     z-index: 99;
 }
 
+.downlogo{
+    max-height: 60px;
+    transition: .5s;
+
+}
+
 
 /*** Heading ***/
 h1,
